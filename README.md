@@ -64,7 +64,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#Quickstart">Quickstart</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -150,7 +150,7 @@ Make sure you have your `rust` environment configurated
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Quickstart
 
 1. Make sure you've got `cargo` set up
 2. Install cargo binary crate to be able to test easily on your computer
