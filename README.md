@@ -93,7 +93,7 @@ This library is designed to be as simple as possible. It is responsible for:
 
 * [rust](https://www.rust-lang.org/)
 * [embedded-graphics](https://github.com/embedded-graphics/embedded-graphics)
-* [embedded-graphics-simulator](hhttps://docs.rs/embedded-graphics-simulator/latest/embedded_graphics_simulator/)
+* [embedded-graphics-simulator](https://docs.rs/embedded-graphics-simulator/latest/embedded_graphics_simulator/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
