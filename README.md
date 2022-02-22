@@ -223,7 +223,7 @@ Project Link: [https://github.com/bernii/embedded-graphics-sparklines](https://g
 [issues-shield]: https://img.shields.io/github/issues/bernii/embedded-graphics-sparklines.svg?style=for-the-badge
 [issues-url]: https://github.com/bernii/embedded-graphics-sparklines/issues
 [license-shield]: https://img.shields.io/github/license/bernii/embedded-graphics-sparklines.svg?style=for-the-badge
-[license-url]: https://github.com/bernii/embedded-graphics-sparklines/blob/master/LICENSE
+[license-url]: https://github.com/bernii/embedded-graphics-sparklines/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/bernii
 [product-screenshot]: images/screenshot.png
