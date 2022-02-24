@@ -93,7 +93,10 @@ where
                 - ((val - min) as f32 * slope)
                 - self.stroke_width as f32 / 2f32;
 
-            let p = Point::new((i as f32 * px_per_seg) as i32, scaled_val as i32);
+            let p = Point::new(
+                (i as f32 * px_per_seg) as i32 + self.bbox.top_left.x,
+                scaled_val as i32,
+            );
 
             // skip first point as it goes from zero
             if i > 0 {
