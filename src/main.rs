@@ -1,6 +1,13 @@
-//! # Example: Hello world
+//! # Example with Display Simulator: Sparklines
 //!
-//! A simple hello world example displaying some primitive shapes and some text underneath.
+//! A simple example showing basic behaviour of `sparklines` with semi-randomly
+//! generated data.
+//! There are five phases where we generate various data that is then beeing
+//! displayed with sparkline, each one has 50 samples:
+//! - first, a sine wave is generated
+//! - second, there's a linear grpwth function
+//! - third and fourth uses an exponential up and down functions
+//! - in the last phase random samples are generated
 
 use std::{thread, time::Duration};
 

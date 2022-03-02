@@ -192,7 +192,7 @@ dependencies = [
 
 [[package]]
 name = "embedded-graphics-sparklines"
-version = "0.0.1"
+version = "0.1.0"
 dependencies = [
  "embedded-graphics",
  "embedded-graphics-simulator",
